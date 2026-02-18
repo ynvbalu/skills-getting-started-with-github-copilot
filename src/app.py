@@ -69,6 +69,7 @@ activities = {
       "schedule": "Thursdays, 3:30 PM - 5:00 PM",
       "max_participants": 16,
       "participants": []
+      
    },
    "Science Club": {
       "description": "Hands-on experiments and scientific exploration",
